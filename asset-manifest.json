@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/udemy-foor-order/static/css/main.67211b9e.css",
+    "main.js": "/udemy-foor-order/static/js/main.c4a4d02a.js",
+    "static/media/meals.jpg": "/udemy-foor-order/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/udemy-foor-order/index.html",
+    "main.67211b9e.css.map": "/udemy-foor-order/static/css/main.67211b9e.css.map",
+    "main.c4a4d02a.js.map": "/udemy-foor-order/static/js/main.c4a4d02a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67211b9e.css",
+    "static/js/main.c4a4d02a.js"
+  ]
+}
